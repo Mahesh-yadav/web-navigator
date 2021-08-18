@@ -1,0 +1,15 @@
+{
+  "name": "web-navigator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "This project simulates the navigational operations of a web browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "Mahesh Yadav",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
